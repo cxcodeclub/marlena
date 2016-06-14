@@ -1,0 +1,8 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Ensure text files on USB-stick are always editable in Windows Notepad
+*.html text eol=crlf
+*.css text eol=crlf
+*.js text eol=crlf
+*.py text eol=crlf

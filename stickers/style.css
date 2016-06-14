@@ -1,0 +1,28 @@
+body {
+   background: white;
+}
+
+.sticker {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin: 5px;
+}
+#coding {
+  font-size: 40px;
+  font-weight:bold;
+  font-family: "courier new";
+  background: linear-gradient(darkcyan, turquoise);
+  padding: 50px 30px;
+  border-radius:20px;
+}
+#web {
+  font-size:40px;
+  font-family:impact;
+  text-shadow:2px 2px grey;
+  background: radial-gradient(green, turquoise, darkcyan);
+  padding:30px;
+  border-radius:100px;
+  }
+  
+
